@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main(){
+  printf("usb 날라갔어요...다들 클라우드 하세요");
+  return 0;
+}
